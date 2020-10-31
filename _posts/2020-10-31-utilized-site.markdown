@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Utilized The Site!"
+title:  "Utilized Site!"
 date:   2020-10-31 16:04:00 +0700
 categories: journal
 ---
