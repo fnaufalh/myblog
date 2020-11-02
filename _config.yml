@@ -21,17 +21,31 @@
 title: Fathin Naufal Hawi
 email: fnaufalh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The journey of a simple person that have a complex mindset to learn anything in holistic perspective.
+  Personal blog about experience and design.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nopals.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 dribbble_username: fnaufalh
 github_username:  fnaufalh
 twitter_username: fnaufalh
+tagline: Personal Blog
+author: Fathin Naufal Hawi
+twitter:
+    username: fnaufalh
+    card: summary
+social:
+  name: Fathin Naufal Hawi
+  links:
+    - https://twitter.com/BenBalter
+    - https://www.facebook.com/ben.balter
+    - https://www.linkedin.com/in/BenBalter
+    - https://github.com/benbalter
+    - https://keybase.io/benbalter
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
