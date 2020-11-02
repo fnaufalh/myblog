@@ -2,6 +2,8 @@
 layout: page
 title: Project
 permalink: /project/
+jsProject:
+- /assets/js/custom.js
 ---
 
 <style>
