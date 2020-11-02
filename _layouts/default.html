@@ -15,7 +15,9 @@
 
     {%- include footer.html -%}
 
+    {% for javascript in page.project %}
     <script src="/assets/js/custom.js"></script>
+    {% endfor %}
   </body>
 
 </html>
