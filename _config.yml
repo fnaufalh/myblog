@@ -27,7 +27,10 @@ dribbble_username: fnaufalh
 github_username:  fnaufalh
 twitter_username: fnaufalh
 tagline: Personal Blog
-image: /assets/seo.png
+image:
+  path: /assets/seo.png
+  height: 100
+  width: 100
 author: Fathin Naufal Hawi
 twitter:
     username: fnaufalh
