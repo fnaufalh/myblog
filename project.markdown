@@ -173,7 +173,7 @@ jsProject:
         I'm passionate to help business grow with technology, educate them to start paying attention to digital environment that can scaling up their business. Here you can see my project that I have completed in freelance work.
     </p>
     <div class="card">
-        <img class="img-zoom" src="/assets/img/projects/ral-nursery/1.jpg" />
+        <img class="img-zoom" src="/assets/img/projects/ral-nursery/1.jpg" alt="RAL.nursery" />
         <div class="flex">
             <div class="date">Oct 2020</div>
             <div class="role">UI Designer</div>
@@ -182,7 +182,7 @@ jsProject:
         <a class="button" role="button" href="https://dribbble.com/shots/14458518-MVP-Design-Concept-RAL-nursery" target="_blank">See Project</a>
     </div>
     <div class="card">
-        <img class="img-zoom" src="/assets/img/projects/eventpals/1.jpg" />
+        <img class="img-zoom" src="/assets/img/projects/eventpals/1.jpg" alt="eventpals" />
         <div class="flex">
             <div class="date">Oct 2020</div>
             <div class="role">UI Designer</div>
@@ -191,7 +191,7 @@ jsProject:
         <a class="button" role="button" href="https://dribbble.com/shots/14457121-eventpals-Design-Concept" target="_blank">See Project</a>
     </div>
     <div class="card">
-        <img class="img-zoom" src="/assets/img/projects/dpa/1.jpg" />
+        <img class="img-zoom" src="/assets/img/projects/dpa/1.jpg" alt="Dhanika Property" />
         <div class="flex">
             <div class="date">Oct 2020</div>
             <div class="role">UI Designer | Front-end Engineer</div>
@@ -200,7 +200,7 @@ jsProject:
         <a class="button disabled" role="button" href="javascript:void(0);" target="_self">See Project</a>
     </div>
     <div class="card">
-        <img class="img-zoom" src="/assets/img/projects/aaa/1.jpg" />
+        <img class="img-zoom" src="/assets/img/projects/aaa/1.jpg" alt="PT. Atelir Alad Aditama" />
         <div class="flex">
             <div class="date">Sept 2020</div>
             <div class="role">UI Designer | Front-end Engineer</div>
@@ -209,7 +209,7 @@ jsProject:
         <a class="button" role="button" href="https://dribbble.com/shots/14398918-AAA-Company-Profile" target="_blank">See Project</a>
     </div>
     <div class="card">
-        <img class="img-zoom" src="/assets/img/projects/pin/1.jpg" />
+        <img class="img-zoom" src="/assets/img/projects/pin/1.jpg" alt="PT. PUTERA INSTRUMENINDO" />
         <div class="flex">
             <div class="date">Aug 2020</div>
             <div class="role">UI Designer | Front-end Engineer</div>
@@ -218,7 +218,7 @@ jsProject:
         <a class="button" role="button" href="https://dribbble.com/shots/14397333-PIN-Company-Profile" target="_blank">See Project</a>
     </div>
     <div class="card">
-        <img class="img-zoom" src="/assets/img/projects/yma/1.jpg" />
+        <img class="img-zoom" src="/assets/img/projects/yma/1.jpg" alt="Yuk Menghafal Al-Quran!" />
         <div class="flex">
             <div class="date">Jul 2020</div>
             <div class="role">UI Designer</div>
@@ -228,5 +228,5 @@ jsProject:
     </div>
 </section>
 <div id="modal" class="modal">
-    <img class="modal-content" id="img">
+    <img class="modal-content" id="img" alt="Zoom Image" />
 </div>
