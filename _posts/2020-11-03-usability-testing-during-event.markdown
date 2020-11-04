@@ -5,14 +5,6 @@ date:   2020-11-03 20:11:00 +0700
 categories: journal
 ---
 
-<style>
-    .img-center {
-        display:flex;
-        justify-content:center;
-    }
-</style>
-
-
 Hi, I want to share moments and my experience with what I have at the previous office ([Ralali.com](https://ralali.com)). Sometimes when we have an event like a festival, exhibition, or some event that we can interact with users, we often invited by our Engineering Manager to join the event. The goal is to help users directly if they need, what a nice **empathy**!
 
 So we have a proper mini booth for users come to interact with the team, users visit the booth for any reason, some of them come with interesting deals with the product, some of them come for asked help or give us feedback about the app that we built. It's fun to interact with them directly, we got much insight into their need, behavior, and their feedback.

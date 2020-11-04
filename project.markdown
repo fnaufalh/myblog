@@ -49,16 +49,6 @@ jsProject:
         display: flex;
     }
 
-    .date, .role {
-        color: #b3b3b3;
-        font-size: 12px;
-        line-height: 100%;
-    }
-
-    .date {
-        width: 30%;
-    }
-
     .role {
         float: right;
         text-align: right;

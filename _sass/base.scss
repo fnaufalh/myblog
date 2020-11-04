@@ -3,3 +3,18 @@ body {
     color: #3C3C3C;
     font-family: 'Roboto Slab';
 }
+
+.date, .role {
+    color: #b3b3b3;
+    font-size: 12px;
+    line-height: 100%;
+}
+
+.date {
+    width: 30%;
+}
+
+.img-center {
+    display: flex;
+    justify-content: center;
+}
