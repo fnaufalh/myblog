@@ -64,7 +64,7 @@ permalink: /about/
     }
 </style>
 
-<h1>Hi, I'm <strike>Front-end Engineer</strike>UI Designer,</h1>
+<h1>Hi, I'm <strike>Front-end Engineer</strike> UI Designer,</h1>
 
 My previous background was 3 years professional front-end engineer, and now shifting to UI designer and product designer thoroughly. It’s a step for me to finding and increasing the solid ownership of the product that I have, to give more impact, more experience to the user, and usefulness for the product itself.
 
