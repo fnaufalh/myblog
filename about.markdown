@@ -20,6 +20,7 @@ permalink: /about/
     }
 
     img {
+        height: auto;
         width: 400px;
     }
 
