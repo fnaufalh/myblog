@@ -3,6 +3,7 @@ layout: post
 title:  "Customer-obsessed!"
 date:   2020-11-05 14:09:00 +0700
 categories: journal
+image: /assets/img/posts/conversation.png
 ---
 
 What's our company's value? What's our motivation at work? Who needs our help? Is a simple question but it will touch our mind even our heart. How do you answer that? All of this question will show how solid our goals are. I will tell you my thought about one of the most important values that must be in our company value, at least in our value.
