@@ -12,7 +12,7 @@ What's our company's value? What's our motivation at work? Who needs our help? I
     <img src="/assets/img/posts/conversation.png" alt="Customer Obsessed" />
 </div>
 
-For me customer-obsessed good everywhere and context, not in our workplace, but our life. It will give us natural respect from the others, and will make us happy of course! If we talk in the context of the workplace, our customer is not only our users, but it may our partner, our leader, or everyone that need our help. A relationship is very important to make our work easier and fun, so do good things for them with a customer-obsessed mindset.
+For me customer-obsessed is good anywhere, not only in the workplace, but in life as well. It will give us natural respect from the others, and will make us happy of course! If we talk in the context of the workplace, our customer is not only our users, but it may our partner, our leader, or everyone that need our help. A relationship is very important to make our work easier and fun, so do good things for them with a customer-obsessed mindset.
 
 How about customer-obsessed to our users itself? For us that works for many users on direct or indirect communication with them, what we should do and must always keep it do is **fast respond**, **quick solving**, **support them**. Okay, we can breakdown one by one below:
 - **Fast respond**, Maybe we are busy, have another target, but maybe we forget to who or for who we are working on. Prioritize them, not to directly fulfill their needs, at least we know what they need and our prioritize, after we know about it, we can compare our prioritize and put it to our list to-do.
