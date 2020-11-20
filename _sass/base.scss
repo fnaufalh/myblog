@@ -14,10 +14,17 @@ body {
     width: 30%;
 }
 
-.img-center {
+.img-center, .img-left {
     display: flex;
-    justify-content: center;
     margin-bottom: 15px;
+}
+
+.img-center {
+    justify-content: center;
+}
+
+.img-left {
+    justify-content: left;
 }
 
 .post-title {

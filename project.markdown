@@ -2,7 +2,7 @@
 layout: page
 title: Project
 permalink: /project/
-jsProject:
+javascript:
 - /assets/js/custom.js
 ---
 
@@ -38,11 +38,6 @@ jsProject:
     img {
         border-radius: 8px;
         transition: opacity 0.3s;
-    }
-
-    img:hover {
-        cursor: pointer;
-        opacity: 0.85;
     }
 
     .flex {
@@ -97,55 +92,6 @@ jsProject:
         box-shadow: none;
         color: #f8f8f8;
         cursor: not-allowed;
-    }
-
-    .modal {
-        display: none;
-        position: fixed;
-        z-index: 1;
-        padding-top: 50px; 
-        left: 0;
-        top: 0;
-        width: 100%; 
-        height: 100%; 
-        overflow: auto; 
-        background-color: rgb(0,0,0);
-        background-color: rgba(0,0,0,0.9);
-    }
-
-    .modal:hover {
-        cursor: pointer;
-    }
-
-    .modal-content {
-        margin: auto;
-        display: block;
-        width: 80%;
-        max-width: 700px;
-    }
-
-    /* Add Animation */
-    .modal-content {  
-        -webkit-animation-name: zoom;
-        -webkit-animation-duration: 0.6s;
-        animation-name: zoom;
-        animation-duration: 0.6s;
-    }
-
-    @-webkit-keyframes zoom {
-        from {-webkit-transform:scale(0)} 
-        to {-webkit-transform:scale(1)}
-    }
-
-    @keyframes zoom {
-        from {transform:scale(0)} 
-        to {transform:scale(1)}
-    }
-
-    @media only screen and (max-width: 700px){
-        .modal-content {
-            width: 100%;
-        }
     }
 
     @media only screen and (max-width: 700px){
