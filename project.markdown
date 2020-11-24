@@ -109,6 +109,15 @@ javascript:
         I'm passionate to help business grow with technology, educate them to start paying attention to digital environment that can scaling up their business. Here you can see my project that I have completed in freelance work.
     </p>
     <div class="card">
+        <img class="img-zoom" src="/assets/img/projects/newsfeed/1.jpg" alt="Newsfeed" />
+        <div class="flex">
+            <div class="date">Nov 2020</div>
+            <div class="role">UI Designer</div>
+        </div>
+        <div class="title">Newsfeed Design Concept</div>
+        <a class="button" role="button" href="https://dribbble.com/shots/14637797-Newsfeed-Design-Concept" target="_blank">See Project</a>
+    </div>
+    <div class="card">
         <img class="img-zoom" src="/assets/img/projects/ral-nursery/1.jpg" alt="RAL.nursery" />
         <div class="flex">
             <div class="date">Oct 2020</div>
