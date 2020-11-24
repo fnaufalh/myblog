@@ -118,7 +118,7 @@ javascript:
         <a class="button" role="button" href="https://dribbble.com/shots/14637797-Newsfeed-Design-Concept" target="_blank">See Project</a>
     </div>
     <div class="card">
-        <img class="img-zoom" src="/assets/img/projects/m-bca/1.png" alt="m-BCA" />
+        <img class="img-zoom" src="/assets/img/projects/m-bca/1.jpg" alt="m-BCA" />
         <div class="flex">
             <div class="date">Nov 2020</div>
             <div class="role">UI Designer</div>
